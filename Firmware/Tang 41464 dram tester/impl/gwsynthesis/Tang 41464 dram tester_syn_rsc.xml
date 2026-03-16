@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module name="main" Register="166" Lut="444" MULT18X18="1" T_Register="371(166)" T_Alu="13(0)" T_Lut="1067(444)" T_MULT18X18="1(1)">
+ <SubModule name="button_start_inst" Register="25" Lut="44" T_Register="25(25)" T_Lut="44(44)"/>
+ <SubModule name="uart_rx_wrapper_inst" Register="10" Lut="17" T_Register="51(10)" T_Alu="3(0)" T_Lut="79(17)">
+  <SubModule name="uart_rx_inst" Register="41" Alu="3" Lut="62" T_Register="41(41)" T_Alu="3(3)" T_Lut="62(62)"/>
+ </SubModule>
+ <SubModule name="uart_tx_wrapper_inst" Register="38" Lut="358" T_Register="69(38)" T_Alu="3(0)" T_Lut="410(358)">
+  <SubModule name="uart_tx_inst" Register="31" Alu="3" Lut="52" T_Register="31(31)" T_Alu="3(3)" T_Lut="52(52)"/>
+ </SubModule>
+ <SubModule name="dramroutines_inst" Register="60" Alu="7" Lut="90" T_Register="60(60)" T_Alu="7(7)" T_Lut="90(90)"/>
+ <SubModule name="your_instance_name"/>
+</Module>

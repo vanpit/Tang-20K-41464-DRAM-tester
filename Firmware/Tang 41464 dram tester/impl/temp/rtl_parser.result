@@ -1,0 +1,72 @@
+[
+ {
+  "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+  "InstLine" : 1,
+  "InstName" : "main",
+  "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "main",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+    "InstLine" : 610,
+    "InstName" : "button_start_inst",
+    "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/button_start.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "button_start"
+   },
+   {
+    "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+    "InstLine" : 620,
+    "InstName" : "uart_rx_wrapper_inst",
+    "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/uart_rx_wrapper.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_rx_wrapper",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/uart_rx_wrapper.v",
+      "InstLine" : 104,
+      "InstName" : "uart_rx_inst",
+      "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/uart_rx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_rx"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+    "InstLine" : 638,
+    "InstName" : "uart_tx_wrapper_inst",
+    "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/uart_tx_wrapper.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx_wrapper",
+    "SubInsts" : [
+     {
+      "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/uart_tx_wrapper.v",
+      "InstLine" : 222,
+      "InstName" : "uart_tx_inst",
+      "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/uart_tx.v",
+      "ModuleLine" : 1,
+      "ModuleName" : "uart_tx"
+     }
+    ]
+   },
+   {
+    "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+    "InstLine" : 653,
+    "InstName" : "dramroutines_inst",
+    "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/dramroutines.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "dramroutines"
+   },
+   {
+    "InstFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/main.v",
+    "InstLine" : 683,
+    "InstName" : "your_instance_name",
+    "ModuleFile" : "C:/Users/piotr/Documents/Tang 20K DRAM Tester/Firmware/Tang 41464 dram tester/src/gowin_rpll/gowin_rpll.v",
+    "ModuleLine" : 10,
+    "ModuleName" : "Gowin_rPLL"
+   }
+  ]
+ }
+]
