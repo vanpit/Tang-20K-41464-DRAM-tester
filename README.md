@@ -17,6 +17,9 @@ BOM:
 - R15: 1K Ohm Resistor SMD 0805
 - R17..R24: O Ohm Resistor SMD 0805
 - C1..C7: 100nF 0805 Capacitor
+- ZIF Socket 18 pin
+- 40 pin (2x20) 90 deg female connector (ZL263-40DG)
+- 18 pin (1x18) 90 deg male connector (optional, for debug)
 
 How to use:
 
