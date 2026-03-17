@@ -1,0 +1,15 @@
+# KiCad
+*.kicad_pcb linguist-vendored
+*.kicad_sch linguist-vendored
+*.sch linguist-vendored
+*.pretty linguist-vendored
+
+# Gowin / FPGA
+*.fs linguist-vendored
+*.gprj linguist-vendored
+*.log linguist-vendored
+*.tmp linguist-vendored
+
+# generowane śmieci
+build/** linguist-vendored
+output/** linguist-vendored
