@@ -29,7 +29,7 @@ How to use:
 
 Terminal keys
 - "1", "2", "3", "4": select dram class speed test 80ns, 100ns, 120ns, 150ns
-- "q", "Q": increase/decrease test repetitions numbers (0x03FF reps takes about 10 minutes)
+- "q", "Q": increase/decrease test repetition count (0x03FF reps takes about 10 minutes)
 - "w": enable/disable 4ms delay/data retention test between write and read operations
 - "c": show current test config
 - "r" / lite dock T2 button: start test
