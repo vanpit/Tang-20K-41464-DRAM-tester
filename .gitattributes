@@ -26,3 +26,11 @@ docs/** linguist-documentation
 *.kicad_pcb -text
 *.kicad_sch -text
 *.sch -text
+
+# Gowin - pliki mylone z F#
+*.fs linguist-generated
+*.fs linguist-detectable=false
+
+# opcjonalnie jeśli są:
+*.fsi linguist-detectable=false
+*.fsx linguist-detectable=false
