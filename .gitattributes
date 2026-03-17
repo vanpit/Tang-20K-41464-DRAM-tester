@@ -1,15 +1,28 @@
 # KiCad
-*.kicad_pcb linguist-vendored
-*.kicad_sch linguist-vendored
-*.sch linguist-vendored
-*.pretty linguist-vendored
+*.kicad_pcb linguist-generated
+*.kicad_sch linguist-generated
+*.sch linguist-generated
+*.net linguist-generated
 
-# Gowin / FPGA
-*.fs linguist-vendored
-*.gprj linguist-vendored
-*.log linguist-vendored
-*.tmp linguist-vendored
+# Gowin / raporty / wygenerowane webowe wyniki
+impl/** linguist-generated
+output/** linguist-generated
+out/** linguist-generated
+build/** linguist-generated
+docs/** linguist-documentation
 
-# generowane śmieci
-build/** linguist-vendored
-output/** linguist-vendored
+# jeśli masz konkretny katalog z htmlami:
+*.html linguist-generated
+*.htm linguist-generated
+
+# Domyślnie traktuj jako tekst i normalizuj do LF
+* text=auto
+
+# Pliki projektowe – bez zmian
+*.gprj.user -text
+*.gprj -text
+
+# KiCad
+*.kicad_pcb -text
+*.kicad_sch -text
+*.sch -text
