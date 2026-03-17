@@ -7,8 +7,8 @@ Tang Primer r20K 41464 DRAM Tester
 BOM:
 
 - Tang Primer 20K + Lite dock + PMOD LEDx8 module + Sipeed RV Debugger Plus
-- U1: SN74LVC8T245PW
-- U2, U3: SN74AHCT245PWR
+- U1, U2: SN74AHCT245PWR
+- U3: SN74LVC8T245PW
 - U4: MIC94090YC6-TR
 - LED SMD 0805 ex. IN-S85CS5R
 - R1, R2: 5K Ohm Resistor SMD 0805
