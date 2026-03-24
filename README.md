@@ -11,8 +11,7 @@ BOM:
 - Tang Primer 20K + Lite dock + PMOD LEDx8 module + Sipeed RV Debugger Plus
   - OR
 - Tang Nano 20K
-
-  
+  - AND  
 - U1, U2: SN74AHCT245PWR
 - U3: SN74LVC8T245PW
 - U4: MIC94090YC6-TR
