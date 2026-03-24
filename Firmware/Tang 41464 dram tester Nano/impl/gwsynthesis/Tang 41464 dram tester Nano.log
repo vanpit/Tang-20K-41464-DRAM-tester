@@ -1,0 +1,39 @@
+GowinSynthesis start
+Running parser ...
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\button_start.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\dramroutines.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\gowin_rpll\gowin_rpll.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_tx_opts_pkg.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\main.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_rx.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_rx_wrapper.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_tx.v'
+Analyzing Verilog file '\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_tx_wrapper.v'
+Compiling module 'main'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\main.v":1)
+Compiling module 'button_start'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\button_start.v":1)
+Compiling module 'uart_rx_wrapper(CLK_FRE=33)'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_rx_wrapper.v":1)
+Compiling module 'uart_rx(CLK_FRE=33)'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_rx.v":1)
+Compiling module 'uart_tx_wrapper(CLK_FRE=33)'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_tx_wrapper.v":1)
+Compiling module 'uart_tx(CLK_FRE=33)'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\uart_tx.v":1)
+Compiling module 'dramroutines'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\dramroutines.v":1)
+Compiling module 'Gowin_rPLL'("\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\gowin_rpll\gowin_rpll.v":10)
+NOTE  (EX0101) : Current top module is "main"
+[5%] Running netlist conversion ...
+Running device independent optimization ...
+[10%] Optimizing Phase 0 completed
+[15%] Optimizing Phase 1 completed
+[25%] Optimizing Phase 2 completed
+Running inference ...
+[30%] Inferring Phase 0 completed
+[40%] Inferring Phase 1 completed
+[50%] Inferring Phase 2 completed
+[55%] Inferring Phase 3 completed
+Running technical mapping ...
+[60%] Tech-Mapping Phase 0 completed
+[65%] Tech-Mapping Phase 1 completed
+[75%] Tech-Mapping Phase 2 completed
+[80%] Tech-Mapping Phase 3 completed
+[90%] Tech-Mapping Phase 4 completed
+[95%] Generate netlist file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\gwsynthesis\Tang 41464 dram tester Nano.vg" completed
+[100%] Generate report file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\gwsynthesis\Tang 41464 dram tester Nano_syn.rpt.html" completed
+GowinSynthesis finish

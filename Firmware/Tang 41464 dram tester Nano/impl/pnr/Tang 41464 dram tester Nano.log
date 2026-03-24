@@ -1,0 +1,29 @@
+Reading netlist file: "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\gwsynthesis\Tang 41464 dram tester Nano.vg"
+Parsing netlist file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\gwsynthesis\Tang 41464 dram tester Nano.vg" completed
+Processing netlist completed
+Reading constraint file: "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\src\Tang 41464 dram tester Nano.cst"
+Physical Constraint parsed completed
+Running placement......
+[10%] Placement Phase 0 completed
+[20%] Placement Phase 1 completed
+[30%] Placement Phase 2 completed
+[50%] Placement Phase 3 completed
+Running routing......
+[60%] Routing Phase 0 completed
+[70%] Routing Phase 1 completed
+[80%] Routing Phase 2 completed
+[90%] Routing Phase 3 completed
+Running timing analysis......
+[95%] Timing analysis completed
+Placement and routing completed
+Bitstream generation in progress......
+Bitstream generation completed
+Running power analysis......
+[100%] Power analysis completed
+Generate file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\pnr\Tang 41464 dram tester Nano.power.html" completed
+Generate file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\pnr\Tang 41464 dram tester Nano.pin.html" completed
+Generate file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\pnr\Tang 41464 dram tester Nano.rpt.html" completed
+Generate file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\pnr\Tang 41464 dram tester Nano.rpt.txt" completed
+Generate file "\\diskstation-user.home\Piotr\FPGA\Tester Nano\Tang 41464 dram tester Nano\impl\pnr\Tang 41464 dram tester Nano.tr.html" completed
+Tue Mar 24 18:13:21 2026
+
