@@ -33,7 +33,7 @@ How to use:
 - Synthetize and program Tang with Gowin IDE.
   - For Primer 20K version use "Tang 41464 tester-1.1.zip" gerber files and "Tang 41464 dram tester" firmware project
   - For Nano 20K version use  "Tang 41464 tester Nano 1.1.zip" gerber files and "Tang 41464 dram tester Nano" firmware project
-  - IMPORTANT! For Nano 20K version set "pll_clk O0=33M" in BL616 config as project use 10 PIN FPGA clock 
+  - IMPORTANT! For Nano 20K version set "pll_clk O0=33M" in BL616 config as project use 10 PIN FPGA 33MHz clock 
 - Connect to uart module serial port with 115200 baud rate
 
 Terminal keys
