@@ -9,7 +9,7 @@ Timing resolution is 5.29ns for Primer 20K version and 6.06ns for Nano 20K versi
 BOM:
 
 - Tang Primer 20K + Lite dock + PMOD LEDx8 module + Sipeed RV Debugger Plus
-  OR
+  - OR
 - Tang Nano 20K
   
 - U1, U2: SN74AHCT245PWR
